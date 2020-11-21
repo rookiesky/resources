@@ -1,0 +1,1 @@
+<div class="d-inline-block svg-lg svg-nothing"></div>
